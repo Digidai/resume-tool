@@ -67,3 +67,7 @@ npm run dev
 ## 许可证
 
 MIT 
+
+## OpenJobs AI
+
+[openjobs-ai.com](https://www.openjobs-ai.com/)
